@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SimpleImpact/static/css/main.a617e044.chunk.css",
+    "main.js": "/SimpleImpact/static/js/main.ffd572fa.chunk.js",
+    "main.js.map": "/SimpleImpact/static/js/main.ffd572fa.chunk.js.map",
+    "runtime-main.js": "/SimpleImpact/static/js/runtime-main.5565a131.js",
+    "runtime-main.js.map": "/SimpleImpact/static/js/runtime-main.5565a131.js.map",
+    "static/js/2.9f03305a.chunk.js": "/SimpleImpact/static/js/2.9f03305a.chunk.js",
+    "static/js/2.9f03305a.chunk.js.map": "/SimpleImpact/static/js/2.9f03305a.chunk.js.map",
+    "static/js/3.4a98f1b3.chunk.js": "/SimpleImpact/static/js/3.4a98f1b3.chunk.js",
+    "static/js/3.4a98f1b3.chunk.js.map": "/SimpleImpact/static/js/3.4a98f1b3.chunk.js.map",
+    "index.html": "/SimpleImpact/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/SimpleImpact/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9f03305a.chunk.js.LICENSE.txt": "/SimpleImpact/static/js/2.9f03305a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5565a131.js",
+    "static/js/2.9f03305a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.ffd572fa.chunk.js"
+  ]
+}
