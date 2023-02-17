@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SimpleImpact/static/css/main.a617e044.chunk.css",
-    "main.js": "/SimpleImpact/static/js/main.700d69b5.chunk.js",
-    "main.js.map": "/SimpleImpact/static/js/main.700d69b5.chunk.js.map",
+    "main.js": "/SimpleImpact/static/js/main.fb2b71fd.chunk.js",
+    "main.js.map": "/SimpleImpact/static/js/main.fb2b71fd.chunk.js.map",
     "runtime-main.js": "/SimpleImpact/static/js/runtime-main.9e8f1b46.js",
     "runtime-main.js.map": "/SimpleImpact/static/js/runtime-main.9e8f1b46.js.map",
     "static/js/2.15f934ae.chunk.js": "/SimpleImpact/static/js/2.15f934ae.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9e8f1b46.js",
     "static/js/2.15f934ae.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.700d69b5.chunk.js"
+    "static/js/main.fb2b71fd.chunk.js"
   ]
 }
